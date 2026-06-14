@@ -21,8 +21,8 @@ OLLAMA_MODEL = "llama3:8b"
 DEPOSIT = 100.0         
 
 # --- НАСТРОЙКИ API КЛЮЧЕЙ BYBIT ---
-BYBYT_API_KEY = "ok9AZsJPZcSRucQUZc"
-BYBYT_API_SECRET = "3LjaSP7lErsqTKvWOfGgl02Y9QzW3y7xz7kA"
+BYBYT_API_KEY = ""
+BYBYT_API_SECRET = ""
 
 bot = telebot.TeleBot(TELEGRAM_TOKEN)
 is_trading = False  
