@@ -1,0 +1,42 @@
+{
+    "BTC/USDT": {
+        "fast": 5,
+        "slow": 50,
+        "tp": 2.0,
+        "sl": 1.5,
+        "leverage": 5,
+        "size": 0.3
+    },
+    "ETH/USDT": {
+        "fast": 5,
+        "slow": 30,
+        "tp": 2.0,
+        "sl": 1.5,
+        "leverage": 5,
+        "size": 0.3
+    },
+    "SOL/USDT": {
+        "fast": 5,
+        "slow": 20,
+        "tp": 2.0,
+        "sl": 2.0,
+        "leverage": 5,
+        "size": 0.3
+    },
+    "BNB/USDT": {
+        "fast": 5,
+        "slow": 30,
+        "tp": 2.0,
+        "sl": 1.5,
+        "leverage": 5,
+        "size": 0.3
+    },
+    "XRP/USDT": {
+        "fast": 5,
+        "slow": 20,
+        "tp": 2.0,
+        "sl": 2.0,
+        "leverage": 5,
+        "size": 0.3
+    }
+}
