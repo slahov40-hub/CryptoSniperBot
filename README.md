@@ -15,3 +15,7 @@
 - **Язык:** Python
 - **Методология:** AI-assisted development (разработка с помощью ИИ)
 - **Инструментарий:** Asyncio, Pandas, JSON-конфигурация
+<img width="1934" height="1042" alt="Портф" src="https://github.com/user-attachments/assets/34b00141-5cca-4877-a983-cb1b72dda12a" />
+<img width="579" height="1280" alt="photo_5292138559471033125_y" src="https://github.com/user-attachments/assets/12ef7858-78c1-45bb-979c-0010cf425aee" />
+<img width="1926" height="1038" alt="Портф2" src="https://github.com/user-attachments/assets/956c6b57-8ce3-469b-a4b3-677cd5d15333" />
+<img width="579" height="1280" alt="photo_5292138559471033124_y" src="https://github.com/user-attachments/assets/a939ce26-bf78-4979-9212-50d6a03f2412" />
