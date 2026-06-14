@@ -14,8 +14,8 @@ import yfinance as yf
 from telebot import types
 
 # --- НАСТРОЙКИ TELEGRAM & OLLAMA ---
-TELEGRAM_TOKEN = "8910073227:AAGnArJk_E8ccYGCraIo6TWrINceOHBcU1k"
-CHAT_ID = "1084140256"
+TELEGRAM_TOKEN = ""
+CHAT_ID = ""
 OLLAMA_URL = "http://localhost:11434/api/generate"
 OLLAMA_MODEL = "llama3:8b"
 DEPOSIT = 100.0         
